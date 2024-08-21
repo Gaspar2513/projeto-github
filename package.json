@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "apip",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -12,7 +12,6 @@
   "description": "",
   "dependencies": {
     "@prisma/client": "^5.18.0",
-    "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongodb": "^6.8.0"
   },
